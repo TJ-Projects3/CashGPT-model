@@ -14,6 +14,7 @@ import {
   Modal,
   TextField,
 } from "@mui/material";
+import { green, lime } from '@mui/material/colors';
 
 /* const style = {
   position: "absolute",
@@ -56,14 +57,17 @@ export default function Page() {
         CashGPT
       </Typography>
       <Typography variant='h3' fontWeight={'100'} width='1500px' textAlign={'center'}>
-        Your favorite financial educator for — kids, adults, everywhere
+        Your favorite financial educator for — kids and adults, everywhere.
       </Typography>
       <Stack width={"500px"} height={"700px"} bgcolor={'white'} border={'20px shadow black'} borderRadius={'50px'} overflow={'auto'} spacing={2} textAlign={'center'} padding={"50px"} paddingTop={"20px"}>
         {messages.map(message => (
-          <div key={message.id}>
+            <div key={message.id}>
+            <Box sx={{borderRadius:'25px', backgroundImage: 'url("lime-wall-test.jpg")', backgroundRepeat:'no-repeat', border:'5px', padding: '20px'}}>
             {message.role === 'user' ? 'User: ' : 'AI: '}
             {message.content}
+            </Box>
           </div>
+
         ))}
       </Stack>
 
