@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+A NextJS app that features an interactive, family-friendly chatbot that helps educate the youth and parents about all things financial literacy as well as investment and saving strategies.
 
 ## Getting Started
 
