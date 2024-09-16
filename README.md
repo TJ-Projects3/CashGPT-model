@@ -1,4 +1,4 @@
-A NextJS app that features an interactive, family-friendly chatbot that helps educate youth, parents, and users of all ages about all things financial literacy as well as investment and saving strategies.
+My AI app features an interactive, family-friendly chatbot nicknamed "CashGPT" that helps educate youth, parents, and users of all ages about all things financial literacy as well as investment and saving strategies.
 
 ## Getting Started
 
