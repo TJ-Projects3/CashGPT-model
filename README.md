@@ -2,7 +2,7 @@
 
 My AI application features an interactive, family-friendly chatbot nicknamed **CashGPT** that helps educate youth, parents, and users of all ages about financial literacy in order to more effectively manage money for generations to come. This app will hopefully have a positive impact on how people manage their money and resources to build more wealth and positive outcomes, check it out!
 
-Additionally, his AI app was deployed using the *Vercel AI SDK* along with OpenAI API as well as other tools. This AI framework allowed for seamless full-stack development from design to deployment and I do recommend!
+Additionally, this AI app was deployed using the *Vercel AI SDK* along with OpenAI API as well as other tools. This AI framework allowed for seamless full-stack development from design to deployment and I do recommend!
 
 ![image](https://github.com/user-attachments/assets/aa99c144-33c1-4d60-bc10-957c7211e0de)
 
